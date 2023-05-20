@@ -9,4 +9,4 @@
 
 [Week 2 - Session1 (13/05/2023) starttime 07:00](https://www.youtube.com/watch?v=A9m-4i35HLE&list=PLt_nrfusQeEdYto6Qh2hkD7EcCQ-7QHFk&index=3&pp=iAQB)
 
-[Week 2 - Session2 (14/05/2023) starttime 31:30](https://www.youtube.com/watch?v=yNZSZnohEKk&list=PLt_nrfusQeEdYto6Qh2hkD7EcCQ-7QHFk&index=4&t=1846s&pp=iAQB )
+[Week 2 - Session2 (14/05/2023) starttime 31:30]((https://youtu.be/IjP-9kt9EYo?t=1889))
